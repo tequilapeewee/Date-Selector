@@ -1,0 +1,2 @@
+// Change the date in the URL if needed
+    window.location.replace("https://sarathi.parivahan.gov.in/slots/fetchdlslotinfo.do?date=11-12-2025");
